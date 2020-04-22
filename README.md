@@ -1,4 +1,4 @@
-# Deep-Learning
+# Kernel dot product function
 
 A CUDA program for computing the dot product of a vector in parallel with each row of a matrix and each thread access consecutive
 memory locations (coalescent memory access). The inputs to function will be  
